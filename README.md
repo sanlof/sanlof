@@ -3,8 +3,9 @@
 <p>Despite my love for code and design, I chose to become a psychologist, because I didn’t want to risk ruining my hobby by turning it into a job. And, at least to me, code and therapy are not so different – it's always fun to solve problems while trying to understand how and why people/things operate the way they do. 🧠</p>
 <p>After seven years working as a psychologist, though, I'm willing to take a risk. I don't want to wake up one day thinking "what if...?"</p>
 <p><b>Right now, I'm studying web development at Yrgo in Gothenburg, Sweden.</b></p>
-<h3 align="right">🛠️ &nbsp; My Toolbox</h3>
-<table align="right">
+<br />
+<h3>🛠️ &nbsp; My Toolbox</h3>
+<table>
   <tr>
     <th>Things I know</th>
     <th>Things I'm learning</th>
@@ -16,7 +17,8 @@
     <td><img src="https://skill-icons-v2.vercel.app/api/icons?i=javascript,php,sqlite,figma&theme=dark" /></td>
   </tr>
 </table>
-<h3 align="left">When I'm not coding, I like to...</h3>
+<br />
+<h3>When I'm not coding, I like to...</h3>
 
 * Listen to music – preferably Rammstein :metal:
 * Write – right now I'm working on a novel
