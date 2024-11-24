@@ -1,7 +1,7 @@
 <h1 align="">Hi, I'm Sandra 👋</h1>
 <p>I've been coding <b>HTML/CSS</b> since I was about eleven. I've also spent a ridiculous amount of time creating <b>WordPress</b> themes.</p>
 <p>Despite my love for code and design, I chose to become a psychologist, because I didn’t want to risk ruining my hobby by turning it into a job. And, at least to me, code and therapy are not so different – it's always fun to solve problems while trying to understand how and why people/things operate the way they do. 🧠</p>
-<p>However, after seven years working as a psychologist, I'm willing to take a risk. I don't want to wake up one day thinking "what if...?"</p>
+<p>After seven years working as a psychologist, though, I'm willing to take a risk. I don't want to wake up one day thinking "what if...?"</p>
 <p><b>Right now, I'm studying web development at Yrgo in Gothenburg, Sweden.</b></p>
 <h3 align="right">🛠️ &nbsp; My Toolbox</h3>
 <table align="right">
