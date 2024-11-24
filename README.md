@@ -4,7 +4,7 @@
 <p>After seven years working as a psychologist, though, I'm willing to take a risk. I don't want to wake up one day thinking "what if...?"</p>
 <p><b>Right now, I'm studying web development at Yrgo in Gothenburg, Sweden.</b></p>
 <br />
-<h3>🛠️ &nbsp; My Toolbox</h3>
+<h2>🛠️ &nbsp; My Toolbox</h2>
 <table>
   <tr>
     <th>Things I know</th>
@@ -18,7 +18,7 @@
   </tr>
 </table>
 <br />
-<h3>When I'm not coding, I like to...</h3>
+<h2>When I'm not coding, I like to...</h2>
 
 * Listen to music – preferably Rammstein :metal:
 * Write – right now I'm working on a novel
