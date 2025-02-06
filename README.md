@@ -4,6 +4,10 @@
 <p>After seven years working as a psychologist, though, I'm willing to take a risk. I don't want to wake up one day thinking "what if...?"</p>
 <p><b>Right now, I'm studying web development at Yrgo in Gothenburg, Sweden. 🍎</b></p>
 <br />
+<h2>Connect with me</h2>
+<p>Find me at <a href="https://www.linkedin.com/in/sanlof">LinkedIn</a> or visit my <a href="https://sanlof.se">portfolio</a>!</p>
+<br />
+<br />
 <h2>🛠️ &nbsp; My Toolbox</h2>
 <table>
   <tr>
