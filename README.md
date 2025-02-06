@@ -14,7 +14,7 @@
     <td>
       <img src="https://skill-icons-v2.vercel.app/api/icons?i=html,css,wordpress,photoshop" />
     </td>
-    <td><img src="https://skill-icons-v2.vercel.app/api/icons?i=javascript,php,sqlite,figma&theme=dark" /></td>
+    <td><img src="https://skill-icons-v2.vercel.app/api/icons?i=javascript,php,node,sqlite,mysql,nodejs,composer,laravel,c,mongodb,figma&theme=dark" /></td>
   </tr>
 </table>
 <br />
