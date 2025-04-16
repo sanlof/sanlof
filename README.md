@@ -16,9 +16,9 @@
   </tr>
   <tr align="center">
     <td>
-      <img src="https://skill-icons-v2.vercel.app/api/icons?i=html,css,wordpress,photoshop" />
+      <img src="https://skill-icons-v2.vercel.app/api/icons?i=html,css,wordpress,photoshop&theme=dark" />
     </td>
-    <td><img src="https://skill-icons-v2.vercel.app/api/icons?i=javascript,php,node,sqlite,mysql,nodejs,composer,laravel,c,mongodb,figma&theme=dark" /></td>
+    <td><img src="https://skill-icons-v2.vercel.app/api/icons?i=javascript,typescript,php,laravel,nodejs,nextjs,react,c,figma,mysql,sqlite&theme=dark" /></td>
   </tr>
 </table>
 <br />
