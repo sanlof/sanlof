@@ -1,6 +1,6 @@
 <h1 align="">Hi, I'm Sandra 👋</h1>
 <h3>Self-taught web designer and former psychologist, currently studying web development to become fully stacked – I want to help build a web that everyone can use.</h3>
-<p>Click on these links to find me at <a href="https://www.linkedin.com/in/sanlof">LinkedIn</a> or visit my <a href="https://sanlof.se">portfolio</a>.</p>
+<p>Click here find me at <a href="https://www.linkedin.com/in/sanlof">LinkedIn</a>.</p>
 <br />
 <h2>About me</h2>
 <p>I've been coding <b>HTML/CSS</b> since I was eleven. I've also spent ridiculous amounts of time creating <b>WordPress</b> themes. 🎨</p>
